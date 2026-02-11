@@ -1,0 +1,5 @@
+{
+  "name": "PixelForge AI",
+  "description": "A premium AI image generator using Google Gemini and Imagen models with a glassmorphism UI.",
+  "requestFramePermissions": []
+}
